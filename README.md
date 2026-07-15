@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Soham Shinde
 
-☕ Learning Java Developer
+☕ Learning Java 
 
 ---
 
@@ -17,6 +17,7 @@
 - Data Structures & Algorithms
 
 ---
+
 📍 Thane
 📧 soham2848@gmail.com
 
