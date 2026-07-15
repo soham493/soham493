@@ -17,5 +17,10 @@
 - Data Structures & Algorithms
 
 ---
+📍 Thane
+📧 soham2848@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Soham+Shinde;Java+Developer;Backend+Developer;Learning+Spring+Boot;Always+Learning)](https://git.io/typing-svg)
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soham493&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham493&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=soham493&theme=tokyonight)
