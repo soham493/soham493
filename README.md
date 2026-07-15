@@ -18,7 +18,7 @@
 
 ---
 
-📍 Thane
-📧 soham2848@gmail.com
+- 📍 Thane
+- 📧 soham2848@gmail.com
 
 ---
