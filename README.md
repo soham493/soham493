@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm YOUR NAME</h1>
 
-☕ Learning Java 
-
 <p align="center">
+☕ Learning Java 
 🌍 Based in Thane, Mumbai <br>
 ☕ Passionate about Java Development and Software Engineering
 </p>
@@ -22,7 +21,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,idea,maven,html,css" />
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea,html,css" />
 
 </p>
 
@@ -30,9 +29,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soham493&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham493&layout=compact&theme=tokyonight)
 
 ---
 
