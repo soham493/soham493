@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YOUR NAME</h1>
 
 <p align="center">
-☕ Learning Java 
+☕ Learning Java <br> 
 🌍 Based in Thane, Mumbai <br>
 ☕ Passionate about Java Development and Software Engineering
 </p>
@@ -27,11 +27,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soham493&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham493&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham493&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham493&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
@@ -45,6 +46,5 @@
 ## 📫 Connect With Me
 
 - Email: soham2848@gmail.com
-
 
 ---
