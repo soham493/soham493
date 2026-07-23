@@ -1,13 +1,38 @@
-# Hi there 👋 I'm Soham Shinde
+<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
 
 ☕ Learning Java 
 
+<p align="center">
+🌍 Based in Thane, Mumbai <br>
+☕ Passionate about Java Development and Software Engineering
+</p>
+
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🌱 Currently learning **Java**
+- 📚 Improving my Data Structures & Algorithms skills
+- 🎯 Goal: Become a Professional Java Backend Developer
+- ⚡ I enjoy solving coding challenges
+
+---
+
+## 🛠 Technologies & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,idea,maven,html,css" />
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
@@ -18,7 +43,9 @@
 
 ---
 
-- 📍 Thane
-- 📧 soham2848@gmail.com
+## 📫 Connect With Me
+
+- Email: soham2848@gmail.com
+
 
 ---
